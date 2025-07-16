@@ -119,7 +119,7 @@ export function Hero() {
               <div className="relative w-full h-full p-4">
                 <img
                   src="/placeholder.svg?height=400&width=400"
-                  alt="Alex Chen - Python Developer"
+                  alt="Python Developer"
                   className="w-full h-full object-cover rounded-full border-4 border-white/30 dark:border-slate-700/30 shadow-2xl"
                 />
 
